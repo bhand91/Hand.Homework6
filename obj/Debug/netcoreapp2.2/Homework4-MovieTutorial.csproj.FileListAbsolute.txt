@@ -1,0 +1,73 @@
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.deps.json
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.runtimeconfig.json
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.runtimeconfig.dev.json
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.dll
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.pdb
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.Views.dll
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.Views.pdb
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.csprojAssemblyReference.cache
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.csproj.CoreCompileInputs.cache
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.RazorAssemblyInfo.cache
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.RazorAssemblyInfo.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.AssemblyInfoInputs.cache
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.AssemblyInfo.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.TagHelpers.input.cache
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.TagHelpers.output.cache
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.RazorCoreGenerate.cache
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Create.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Delete.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Review.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.RazorTargetAssemblyInfo.cache
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.RazorTargetAssemblyInfo.cs
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.Views.pdb
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.dll
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.pdb
+C:\Users\kdana\Dropbox\WTAMU Dropbox\Spring 2019\CIDM 3312\My Code Initial\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.csproj.CopyComplete
+C:\Users\brale\Documents\Adv Programming\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.deps.json
+C:\Users\brale\Documents\Adv Programming\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.runtimeconfig.json
+C:\Users\brale\Documents\Adv Programming\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.runtimeconfig.dev.json
+c:\Users\brale\Documents\Adv Programming\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.dll
+c:\Users\brale\Documents\Adv Programming\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.pdb
+C:\Users\brale\Documents\Adv Programming\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.Views.dll
+c:\Users\brale\Documents\Adv Programming\MovieReviews\bin\Debug\netcoreapp2.2\Homework4-MovieTutorial.Views.pdb
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.csprojAssemblyReference.cache
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.csproj.CoreCompileInputs.cache
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.RazorAssemblyInfo.cache
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.RazorAssemblyInfo.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.AssemblyInfoInputs.cache
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.AssemblyInfo.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.TagHelpers.input.cache
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.TagHelpers.output.cache
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.RazorCoreGenerate.cache
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Create.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Delete.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\DeleteReview.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Details.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Edit.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Index.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Movies\Review.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.RazorTargetAssemblyInfo.cache
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.RazorTargetAssemblyInfo.cs
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.Views.pdb
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.dll
+c:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.pdb
+C:\Users\brale\Documents\Adv Programming\MovieReviews\obj\Debug\netcoreapp2.2\Homework4-MovieTutorial.csproj.CopyComplete
