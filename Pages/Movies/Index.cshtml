@@ -71,15 +71,15 @@
                 @{
                     // For each movie, calculate the Average review score and display it
                     // Or display N/A. @:text will display text in HTML. or you can use a <span> tag
-                    if (item.Reviews.Count > 0) {
+                    if(item.Reviews.Count > 0) {
                         double avg = item.Reviews.Average(r => r.Score);
                         @Html.DisplayFor(modelItem => avg)
                     }
                     else
                     {
                         @:N/A
-                        //<span>N/A</span>
                     }
+
                 }
                
             </td>
@@ -110,4 +110,4 @@
         asp-route-currentFilter="@Model.CurrentFilter"
         class="btn btn-default @nextDisabled">
             Next
-        </a>
+    </a>
