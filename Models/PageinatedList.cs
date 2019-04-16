@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace MovieReviews
 {
+    //This is the model for paging in the application.
     public class PaginatedList<T> : List<T>
     {
         public int PageIndex{get; private set;}
@@ -14,7 +15,7 @@ namespace MovieReviews
         public PaginatedList(List<T> items, int count, int pageIndex, int pageSize)
         {
             PageIndex = pageIndex;
-            TotalPages  = (int)Math.Ceiling(count / (double)pageSize);
+            TotalPages  = (int)Math.Ceiling(count / (double)pageSize); //finds total pages and allows flexibility if the database shrinks or grows
 
             this.AddRange(items);
         }

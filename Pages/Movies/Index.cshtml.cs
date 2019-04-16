@@ -35,80 +35,70 @@ namespace MovieReviews.Pages.Movies
 
         public string CurrentSort {get; set;}
 
-        public async Task OnGetAsync(string sortOrder, string CurrentFilter, string SearchString, int? pageIndex)
+        public async Task OnGetAsync(string sortOrder, string currentFilter, string searchString, int? pageIndex)
         {
+            //specifies sort order. Line 42 = if sort order is null, then titles will be sorted by decending
             CurrentSort = sortOrder;
             NameSort = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
             DateSort = sortOrder == "Date" ? "date_desc" : "Date";
-            if (SearchString != null)
+            
+
+            if(searchString != null)
             {
                 pageIndex = 1;
             }
             else
             {
-                SearchString = CurrentFilter;
+                searchString = currentFilter;
             }
 
-            CurrentFilter = SearchString;
+            //holds search
+            CurrentFilter = searchString;
 
-            IQueryable<Movie> movieSort = from m in _context.Movie
-                                        select m;
-
-            switch (sortOrder)
-            {
-                case "name_desc":
-                    movieSort = movieSort.OrderByDescending( m => m.Title);
-                    break;
-                case "Date" :
-                    movieSort = movieSort.OrderBy(m => m.ReleaseDate);
-                    break;
-                case "date_desc" :
-                    movieSort = movieSort.OrderByDescending(m => m.ReleaseDate);
-                    break;
-                default:
-                    movieSort = movieSort.OrderBy(m => m.Title);
-                    break;
-            }
-
-            int pageSize = 3;
-            Movie = await PaginatedList<Movie>.CreateAsync(
-                movieSort.AsNoTracking(), pageIndex ?? 1, pageSize);
-        
-            // Use LINQ to get list of genres.
-            IQueryable<string> genreQuery = from m in _context.Movie
-                                            orderby m.Genre
-                                            select m.Genre;
-
-            //var movies = from m in _context.Movie
-            //            select m;
-            // var movies = _context.Movie.Include(m => m.Reviews).Select(m => new {
-            //     ID = m.ID,
-            //     Title = m.Title,
-            //     ReleaseDate = m.ReleaseDate,
-            //     Genre = m.Genre,
-            //     Price = m.Price,
-            //     Rating = m.Rating,
-            //     Review = m.Reviews.Average(r => r.Score)            
-            // });
-            // IQueryable<Movie> movies = _context.Movie.Include(m => m.Reviews);
-            // var movies = (from m in _context.Movie
-            //     select m).Include("Reviews");
-            
-            // Use .Include() to bring in the reviews
             var movies = _context.Movie.Include(m => m.Reviews).Select(m => m);
-
+            
+            //ToUpper helps remove case sensitivity
             if (!string.IsNullOrEmpty(SearchString))
             {
-                movies = movies.Where(s => s.Title.Contains(SearchString));
+                movies = movies.Where(m => m.Title.ToUpper().Contains(searchString.ToUpper()) || m.Genre.Contains(searchString));
             }
-            
+
+            IQueryable<string> genreQuery = from m in _context.Movie
+                                                        orderby m.Genre
+                                                        select m.Genre;
+
             if (!string.IsNullOrEmpty(MovieGenre))
             {
                 movies = movies.Where(x => x.Genre == MovieGenre);
             }
 
+            
+
             Genres = new SelectList(await genreQuery.Distinct().ToListAsync());
+
+            //creates a switch statement to specify how each option will react on the page.
+            switch (sortOrder)
+            {
+                case "name_desc":
+                    movies = movies.OrderByDescending( m => m.Title);
+                    break;
+                case "Date" :
+                    movies = movies.OrderBy(m => m.ReleaseDate);
+                    break;
+                case "date_desc" :
+                    movies = movies.OrderByDescending(m => m.ReleaseDate);
+                    break;
+                default:
+                    movies = movies.OrderBy(m => m.Title);
+                    break;
+            }
+
+            int pageSize = 10;
+            Movie = await PaginatedList<Movie>.CreateAsync(
+                movies.AsNoTracking(), pageIndex ?? 1, pageSize);
+            
             
         }
+        
     }
 }
